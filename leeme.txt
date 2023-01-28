@@ -1,0 +1,5 @@
+Basado en el emulador Emerson Arcadia 2001
+
+no esta completo, no funciona correctamente, pero es un buen punto de partida para un emulador de CPU2650 con PVI2635
+
+joseba epalza, 2020
